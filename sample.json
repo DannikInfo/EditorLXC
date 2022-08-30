@@ -1,0 +1,29 @@
+{
+    "dbName": "docsP",
+    "dbPass": "WWWadmin",
+    "dbUrl": "172.16.0.39",
+    "dbUser": "docs",
+    "debug": false,
+    "delay": 60,
+    "markerDirs": [
+        "Документ",
+        "Фото",
+        "Чертежи",
+        "Программ",
+        "Doc",
+        "Схемы",
+        "Draw",
+        "Prog",
+        "SOFT",
+        "Исходники"
+    ],
+    "markerFiles": [
+        "ttt.txt",
+        "project.txt",
+        "info_project.txt",
+        "project.json"
+    ],
+    "maxSearchDepth": 6,
+    "realRoot": "//srv-adnt/projects$",
+    "smbRoot": "/media/srv-adnt"
+}
